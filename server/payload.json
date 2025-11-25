@@ -1,0 +1,11 @@
+﻿{
+  "name": "Sai PG - Test",
+  "type": "pg",
+  "city": "Pune",
+  "pincode": "411038",
+  "price": 4500,
+  "sharing": 2,
+  "ac": true,
+  "wifi": true,
+  "images": ["https://via.placeholder.com/800x450"]
+}
