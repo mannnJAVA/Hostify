@@ -1,8 +1,6 @@
 import axios from "axios";
 
-const api = axios.create({
+export default axios.create({
   baseURL: "http://localhost:5000/api",
-  withCredentials: true, // allow cookies (JWT)
+  withCredentials: true,
 });
-
-export default api;
